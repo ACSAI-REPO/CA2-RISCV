@@ -1,4 +1,4 @@
-# NON E' ROBA MIA MA NON RICORDO IL NOME DEL SITO DOVE LO HO TROVATO
+Forked from : [dag7dev](https://github.com/dag7dev/risc-v-exercises-2020) repository.
 # risc-v-pack-2020 ENGLISH:
 This repo is a folder which contains many exercises regarding RISC-V.
 I'm publishing them for archiving purpose and for your pure entertainment since there are not so many examples available about RISC-V (there are a lot of exercises on MIPS but not on RISC-V unfortunately).
